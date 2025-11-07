@@ -3,6 +3,7 @@ Real-time multi-label fault detection system using XGBoost on Raspberry Pi. Proc
 
 # About setting up RPi for the deployment 
 1. [Link for downloading RPi OS](https://www.raspberrypi.com/software/operating-systems/)
+![](image.png)
 
 2. Insert SD card into your computer through card reader while opening the Installer, it will directly be downloaded into your SD card
 
